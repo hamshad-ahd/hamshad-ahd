@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Hamshad Ahd 👋
 
-<!--
-**hamshad-ahd/hamshad-ahd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | Computing & Software Engineering Student
 
-Here are some ideas to get you started:
+I'm a Computing & Software Engineering student interested in building
+practical software solutions and continuously improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+- C#
+- Java
+- Python
+- HTML
+- CSS
+
+### Frameworks & Technologies
+- .NET / ASP.NET Core
+- Entity Framework Core
+- REST APIs
+- SQLite
+- Docker
+
+### Tools
+- Git & GitHub
+- Visual Studio
+- VS Code
+- Android Studio
+
+## 🚀 Featured Projects
+
+### 🏥 Real-Time Medicine Stock Tracker & Pharmacy Finder
+A Sri Lanka-focused application designed to help users track medicine
+availability and find nearby pharmacies.
+
+### 🚰 NWSDB Service-Oriented Computing System
+A service-oriented system developed using ASP.NET Core, REST APIs,
+Entity Framework Core, SQLite and Docker.
+
+## 🎓 Education
+
+**Higher Diploma in Computing & Software Engineering**
+
+## 📚 Currently Learning
+
+- Software Engineering
+- Backend Development
+- RESTful API Development
+- Database Design
+- Git & GitHub
+
+## 🤝 Connect With Me
+
+- LinkedIn: [Hamshad Ahd](https://www.linkedin.com/in/hamshad-ahd-939689353/)
+- Email: [hamshadahd997@gmail.com]
+
+---
+
+⭐ Thanks for visiting my profile!
